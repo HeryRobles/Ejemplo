@@ -17,4 +17,6 @@ List<string> text = cadena.Split('|', ' ').ToList();
 foreach (string s in text)
 {
     Console.WriteLine(s);
+
 }
+//Verificar en Documentación de la pagina M.Net
