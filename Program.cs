@@ -19,4 +19,4 @@ foreach (string s in text)
     Console.WriteLine(s);
 
 }
-//Verificar en Documentación de la pagina M.Net
+//Verificar en Documentación de la pagina M.Net  
