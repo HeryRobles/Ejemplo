@@ -1,5 +1,5 @@
 ﻿//using System;
-//using System.Collections.Generic;
+
 
 //namespace Ejemplo
 //{
@@ -12,5 +12,9 @@
 //    }
 //}
 
-//string cadena = "Hola|MUndo|Heriberto";
-
+string cadena = "Hola|MUndo|Heriberto";
+List<string> text = cadena.Split('|', ' ').ToList();
+foreach (string s in text)
+{
+    Console.WriteLine(s);
+}
