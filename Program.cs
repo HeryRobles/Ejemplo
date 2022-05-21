@@ -20,3 +20,4 @@ foreach (string s in text)
 
 }
 //Verificar en Documentación de la pagina M.Net  
+//No se guardo nada ptm
